@@ -377,7 +377,7 @@ function loadNotifications() {
                     dropdown.appendChild(item);
                 });
             } else {
-                dropdown.innerHTML = '<p class="empty">No new notifications</p>';
+                dropdown.innerHTML = '<p class="empty">No    new notifications</p>';
             }
         });
 }
